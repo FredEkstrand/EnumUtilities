@@ -1,0 +1,4 @@
+C:\SoftwareProjects\EnumUtilities\bin\Release\EnumExtensions.dll
+C:\SoftwareProjects\EnumUtilities\bin\Release\EnumExtensions.pdb
+C:\SoftwareProjects\EnumUtilities\obj\Release\EnumExtensions.dll
+C:\SoftwareProjects\EnumUtilities\obj\Release\EnumExtensions.pdb

@@ -1,0 +1,5 @@
+C:\SoftwareProjects\EnumUtilities\bin\Debug\EnumExtensions.dll
+C:\SoftwareProjects\EnumUtilities\bin\Debug\EnumExtensions.pdb
+C:\SoftwareProjects\EnumUtilities\obj\Debug\EnumUtil.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\EnumUtilities\obj\Debug\EnumExtensions.dll
+C:\SoftwareProjects\EnumUtilities\obj\Debug\EnumExtensions.pdb
