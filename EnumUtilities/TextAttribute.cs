@@ -51,7 +51,7 @@ namespace Ekstrand
         }
 
         /// <summary>
-        /// Get/Set TextAttribute value
+        /// TextAttribute value
         /// </summary>
         public string TextValue
         {

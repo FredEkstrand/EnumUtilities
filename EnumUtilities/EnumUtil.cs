@@ -31,10 +31,11 @@ using System.Reflection;
 using System.ComponentModel;
 using System.Globalization;
 
+
 namespace Ekstrand
 {
     /// <summary>
-    /// Collection of enumeration operation
+    /// Collection of enumeration operations
     /// </summary>
     public static class EnumUtil
     {
@@ -68,10 +69,10 @@ namespace Ekstrand
         }
 
         /// <summary>
-        /// Returns a list of enumeration of the given enumeration type.
+        /// Returns a list of enumeration type element
         /// </summary>
         /// <typeparam name="T">Enumeration type</typeparam>
-        /// <returns>Returns a list enumeration form an enumeration type otherwise returns an empty list.</returns>
+        /// <returns>Returns a list of enumeration type element otherwise returns an empty list.</returns>
         public static List<T> EnumList<T>()
         {
             List<T> list = new List<T>();
@@ -138,7 +139,7 @@ namespace Ekstrand
 
 
         /// <summary>
-        /// Returns a List of each enumeration type element name constant.
+        /// Returns a list of each enumeration type element name constant.
         /// </summary>
         /// <typeparam name="T">Enumeration type</typeparam>
         /// <returns>Return a list of string containing the enumeration type name constant otherwise empty list.</returns>

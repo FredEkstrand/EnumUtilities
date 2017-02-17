@@ -2,3 +2,9 @@ C:\SoftwareProjects\EnumUtilities\bin\Release\EnumExtensions.dll
 C:\SoftwareProjects\EnumUtilities\bin\Release\EnumExtensions.pdb
 C:\SoftwareProjects\EnumUtilities\obj\Release\EnumExtensions.dll
 C:\SoftwareProjects\EnumUtilities\obj\Release\EnumExtensions.pdb
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\bin\Release\EnumExtensions.XML
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\bin\Release\EnumExtensions.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\bin\Release\EnumExtensions.pdb
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\obj\Release\EnumUtil.csprojResolveAssemblyReference.cache
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\obj\Release\EnumExtensions.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumUtilities\obj\Release\EnumExtensions.pdb

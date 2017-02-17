@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Ekstrand namespace" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm" />
+  <HelpKINode Title="Ekstrand.EnumUtil class" Url="html/e1b1c7a3-7022-3820-4815-a18e1001d30a.htm" />
+  <HelpKINode Title="Ekstrand.TextAttribute class" Url="html/6e7f9ae7-f7be-bcf3-73c1-54881ece777d.htm" />
+  <HelpKINode Title="EnumCount(Of T) method" Url="html/503980ff-9891-2fda-b81b-df8a1cd4794c.htm" />
+  <HelpKINode Title="EnumCount&lt;T&gt; method" Url="html/503980ff-9891-2fda-b81b-df8a1cd4794c.htm" />
+  <HelpKINode Title="EnumList(Of T) method" Url="html/93c78299-d0ad-246c-7450-b8b6357fc5a3.htm" />
+  <HelpKINode Title="EnumList&lt;T&gt; method" Url="html/93c78299-d0ad-246c-7450-b8b6357fc5a3.htm" />
+  <HelpKINode Title="EnumToStringList(Of T) method" Url="html/f2d8f2cf-232f-58b7-8384-ad837aae62e8.htm" />
+  <HelpKINode Title="EnumToStringList&lt;T&gt; method" Url="html/f2d8f2cf-232f-58b7-8384-ad837aae62e8.htm" />
+  <HelpKINode Title="EnumUtil class">
+    <HelpKINode Title="EnumUtil Class" Url="html/e1b1c7a3-7022-3820-4815-a18e1001d30a.htm" />
+    <HelpKINode Title="about EnumUtil class" Url="html/e1b1c7a3-7022-3820-4815-a18e1001d30a.htm" />
+    <HelpKINode Title="methods" Url="html/b79227bd-3585-3488-9040-5ebf811e81bc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumUtil.EnumCount(Of T) method" Url="html/503980ff-9891-2fda-b81b-df8a1cd4794c.htm" />
+  <HelpKINode Title="EnumUtil.EnumCount&lt;T&gt; method" Url="html/503980ff-9891-2fda-b81b-df8a1cd4794c.htm" />
+  <HelpKINode Title="EnumUtil.EnumList(Of T) method" Url="html/93c78299-d0ad-246c-7450-b8b6357fc5a3.htm" />
+  <HelpKINode Title="EnumUtil.EnumList&lt;T&gt; method" Url="html/93c78299-d0ad-246c-7450-b8b6357fc5a3.htm" />
+  <HelpKINode Title="EnumUtil.EnumToStringList(Of T) method" Url="html/f2d8f2cf-232f-58b7-8384-ad837aae62e8.htm" />
+  <HelpKINode Title="EnumUtil.EnumToStringList&lt;T&gt; method" Url="html/f2d8f2cf-232f-58b7-8384-ad837aae62e8.htm" />
+  <HelpKINode Title="EnumUtil.EnumValueFromDescription(Of T) method" Url="html/f29e5c32-774c-7bcf-7dcf-9dba8d6b176d.htm" />
+  <HelpKINode Title="EnumUtil.EnumValueFromDescription&lt;T&gt; method" Url="html/f29e5c32-774c-7bcf-7dcf-9dba8d6b176d.htm" />
+  <HelpKINode Title="EnumUtil.GetEnumDescription method" Url="html/edde265d-b13c-30fa-0e77-698e64ca538c.htm" />
+  <HelpKINode Title="EnumUtil.GetEnumTextAttribute method" Url="html/002e5606-ed91-573f-b8b1-c69a0b3c8544.htm" />
+  <HelpKINode Title="EnumValueFromDescription(Of T) method" Url="html/f29e5c32-774c-7bcf-7dcf-9dba8d6b176d.htm" />
+  <HelpKINode Title="EnumValueFromDescription&lt;T&gt; method" Url="html/f29e5c32-774c-7bcf-7dcf-9dba8d6b176d.htm" />
+  <HelpKINode Title="GetEnumDescription method" Url="html/edde265d-b13c-30fa-0e77-698e64ca538c.htm" />
+  <HelpKINode Title="GetEnumTextAttribute method" Url="html/002e5606-ed91-573f-b8b1-c69a0b3c8544.htm" />
+  <HelpKINode Title="TextAttribute class">
+    <HelpKINode Title="TextAttribute Class" Url="html/6e7f9ae7-f7be-bcf3-73c1-54881ece777d.htm" />
+    <HelpKINode Title="about TextAttribute class" Url="html/6e7f9ae7-f7be-bcf3-73c1-54881ece777d.htm" />
+    <HelpKINode Title="constructor" Url="html/1eb3d95a-86c5-7694-bc1f-9d3b1cc82ca0.htm" />
+    <HelpKINode Title="methods" Url="html/1e678551-d7c0-4764-81b0-ca57bc630fa6.htm" />
+    <HelpKINode Title="properties" Url="html/97e294e9-c965-1987-3843-0559e31dad81.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextAttribute.TextAttribute constructor" Url="html/1eb3d95a-86c5-7694-bc1f-9d3b1cc82ca0.htm" />
+  <HelpKINode Title="TextAttribute.TextValue property" Url="html/0043b00a-7340-c430-715d-0eb0cffa4d47.htm" />
+  <HelpKINode Title="TextValue property" Url="html/0043b00a-7340-c430-715d-0eb0cffa4d47.htm" />
+</HelpKI>
