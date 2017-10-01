@@ -1,0 +1,17 @@
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\nunit.engine.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\nunit.engine.api.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\Mono.Cecil.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\EnumExtensionsTester.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\EnumExtensionsTester.pdb
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\EnumExtensions.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\nunit.framework.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\EnumExtensions.pdb
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\bin\Release\nunit.framework.xml
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\obj\Release\EnumUtilTester.csprojResolveAssemblyReference.cache
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\obj\Release\EnumExtensionsTester.dll
+C:\Users\frede\Documents\GitHub\EnumUtilities\EnumExtensionsTester\obj\Release\EnumExtensionsTester.pdb

@@ -1,7 +1,6 @@
 ﻿using System;
-using System.ComponentModel;
-using NUnit.Framework;
 using NUnit.VisualStudio.TestAdapter;
+using NUnit.Framework;
 using Ekstrand;
 using System.Collections.Generic;
 
@@ -69,6 +68,7 @@ namespace EnumExtensionsTester
         #region EnumCount Test Sets
 
         [Test]
+        [Category("EnumCount Test Sets")]
         public void EnumCountTest()
         {
             int count = EnumUtil.EnumCount<DivisionLeagTypes>();
@@ -80,6 +80,7 @@ namespace EnumExtensionsTester
         #region EnumToList Test Sets
 
         [Test]
+        [Category("EnumToList Test Sets")]
         public void EnumListTest()
         {
             var items = EnumUtil.EnumList<DivisionLeagTypes>();
@@ -88,6 +89,7 @@ namespace EnumExtensionsTester
         }
 
         [Test]
+        [Category("EnumToList Test Sets")]
         public void EnumListCountTest()
         {
             var items = EnumUtil.EnumList<DivisionLeagTypes>();
@@ -100,6 +102,7 @@ namespace EnumExtensionsTester
         #region EnumValueFromDescription Test Sets
 
         [Test]
+        [Category("EnumValueFromDescription Test Sets")]
         public void EnumValueFromDescriptionTest()
         {
              DockPosition dock = EnumUtil.EnumValueFromDescription<DockPosition>("Dock to All sides");
@@ -108,6 +111,7 @@ namespace EnumExtensionsTester
         }
 
         [Test]
+        [Category("EnumValueFromDescription Test Sets")]
         public void EnumValueFromDescriptionMissingAttributeFieldTest()
         {
             BadTypes result = EnumUtil.EnumValueFromDescription<BadTypes>("Very Bad");
@@ -120,6 +124,7 @@ namespace EnumExtensionsTester
         #region GetEnumTextAttribute Test Set
 
         [Test]
+        [Category("GetEnumTextAttribute Test Set")]
         public void GetEnumTextAttributeMissingAttributeFieldTest()
         {
             string result = BadTypes.VeryBad.GetEnumTextAttribute();
@@ -128,6 +133,7 @@ namespace EnumExtensionsTester
         }
 
         [Test]
+        [Category("GetEnumTextAttribute Test Set")]
         public void GetEnumTextAttributeTest()
         {
             string result = DivisionLeagTypes.AE.GetEnumTextAttribute();
