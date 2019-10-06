@@ -2,14 +2,14 @@
 
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg) [![Build status](https://ci.appveyor.com/api/projects/status/t1mv34yjy97y6eoj?svg=true)](https://ci.appveyor.com/project/FredEkstrand/enigmabinarycipher-qjdru)
 
-
-
+ 
+ 
 ![Project type](https://github.com/FredEkstrand/ImageFiles/raw/master/EnumUtilities/Enum.png )
 # Overview
 
 A collection of Enumeration operations that I have found useful time to time.
 
-# Features
+# Features 
 The EnumUtilities have the following features:
 * GetEnumDescription: Returns the description value from a DescriptionAttribute field.
 * GetEnumTextAttribute: Return the custom attribute called TextAttribute text value.
