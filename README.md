@@ -9,7 +9,7 @@
 
 A collection of Enumeration operations that I have found useful time to time.
 
-#### Features
+# Features
 The EnumUtilities have the following features:
 * GetEnumDescription: Returns the description value from a DescriptionAttribute field.
 * GetEnumTextAttribute: Return the custom attribute called TextAttribute text value.
