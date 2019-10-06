@@ -1,5 +1,3 @@
-remote_theme: fredekstrand.github.io/slateb 
+remote_theme: fredekstrand.github.io/slateb/jekyll-theme-slateb
 show_downloads: true 
 google_analytics:
-
-theme: jekyll-theme-slate
