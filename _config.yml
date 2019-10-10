@@ -1,5 +1,3 @@
-remote_theme: FredEkstrand/jekyll-theme-slateb
+theme: jekyll-theme-slate
 show_downloads: true 
 google_analytics: UA-105343860-1
-
-theme: jekyll-theme-slate
